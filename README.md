@@ -4,5 +4,5 @@ Private/unreleased botnet source
 
 Author - qixy#6969
 
-print{f"Leaked by {Author}"}
+Leaked by qixy#6969
 Includes scanlistener
